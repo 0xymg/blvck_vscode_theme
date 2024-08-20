@@ -17,7 +17,7 @@ Blvck is a sleek and modern VS Code theme that highlights the deep and calming t
 
 ## Screenshots
 
-![Blvck Theme Screenshot](./asseets/ss.jpg)
+![Blvck Theme Screenshot](./assets/ss.jpg)
 
 ## Contributing
 
