@@ -10,10 +10,9 @@ Blvck is a sleek and modern VS Code theme that highlights the deep and calming t
 
 ## Installation
 
-1. Download or clone this repository.
-2. Open the Extensions sidebar in VS Code.
-3. Select "Install from VSIX" and choose the downloaded file.
-4. Activate the Blvck theme from the theme menu.
+1. Open the Extensions sidebar in VS Code.
+2. Search for Blvck Theme
+3. Install and activate the Blvck theme from the theme menu.
 
 ## Screenshots
 
