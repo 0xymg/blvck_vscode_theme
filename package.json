@@ -3,7 +3,7 @@
     "publisher": "YMG",
     "displayName": "Blvck - a dark theme",
     "description": "Made with c0ffee...",
-    "version": "2.2.0",
+    "version": "2.3.0",
     "engines": {
         "vscode": "^1.8.0"
     },
